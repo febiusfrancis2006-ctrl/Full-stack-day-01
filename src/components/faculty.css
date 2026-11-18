@@ -1,0 +1,25 @@
+.facultyy {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+.facultyy-container {
+  width: 320px;
+  padding: 24px;
+  margin: 40px auto;
+  border: 1px solid #e2e8f0; 
+  border-top: 4px solid #aa280d; 
+  border-radius: 10px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); 
+}
+
+.facultyy-content {
+  text-align: left;
+  margin: 8px 0;
+  font-size: 15px;
+}
+
+
